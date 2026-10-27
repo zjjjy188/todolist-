@@ -1,0 +1,7 @@
+node_modules/
+data.json
+release/
+*.exe
+.DS_Store
+Thumbs.db
+投稿材料.md
